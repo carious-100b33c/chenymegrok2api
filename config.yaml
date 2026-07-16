@@ -27,7 +27,7 @@ secrets:
   jwtSecret: "z7cEtWAoXBdrE7zTdJyGcUFtQZCToydR"
   # [必须修改] Base64 编码的 32 字节密钥。快速生成：openssl rand -base64 32
   # 首次写入账号后必须长期保留，后续更换会导致已有凭据无法解密。
-  credentialEncryptionKey: "QmRyRTd6VGRKeUdjVUZ0UVpDVG95ZFI="
+  credentialEncryptionKey: "L9xQ2pW4kM6yN8zB5vC7tR1mH3jF0gD4qS8dK6bV9nY="
 
 bootstrapAdmin:
   # [按需修改] 仅在数据库中没有管理员时使用。
